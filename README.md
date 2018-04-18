@@ -1,3 +1,10 @@
+# Vapor Still Lives
+Vapor 1.x was deprecated by the author.See below
+This version carries modifications as stated in [Migrating to Ghost 1.0.0](https://themes.ghost.org/docs/migrate-to-ghost-1-0-0) and passes GScans rules.
+![GScan results](gscan.png).
+
+
+
 # Deprecation Notice
 
 With the [release of Ghost 1.0.0](https://blog.ghost.org/1-0/), Vapor 1.x is deprecated. Vapor 2.0.0 with full support for Ghost 1.0.0+ is coming, and as soon as I know when that will be, I'll update this repo with information. Thanks to everyone who has forked, contributed, and used Vapor! I'm looking forward to the next version.
