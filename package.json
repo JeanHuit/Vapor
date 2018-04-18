@@ -1,5 +1,6 @@
 {
-  "name": "Vapor",
+  "name": "vapor",
   "version": "1.4.0",
+  "config": { "posts_per_page": 5},
   "author":{"email":"seth.lilly@gmail.com"}
 }
