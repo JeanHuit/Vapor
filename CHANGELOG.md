@@ -1,5 +1,8 @@
 # Changelog
-
+* 1.6 - 2018-08-23
+  * Completes necessary corrections and modifications to make vapor, ghost v2.x compatible
+* 1.5 - 2018 -06--5
+  * Completes necessary corrections to make vapor ghost v1.x compatible
 * 1.4 - 2014-04-19
     * Added `package.json` (closes [#26](https://github.com/sethlilly/Vapor/issues/26))
     * Added `{{asset}}` helper (closes [#24](https://github.com/sethlilly/Vapor/issues/24) and [#13](https://github.com/sethlilly/Vapor/issues/13))
