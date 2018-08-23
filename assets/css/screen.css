@@ -243,7 +243,7 @@ h2 {
   text-transform: uppercase;
   font-weight: 300;
 }
-section.post-content img {
+section.post-content .kg-width-wide .kg-width-full img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
