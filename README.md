@@ -1,5 +1,7 @@
 # Vapor Still Lives
 Vapor 1.x was deprecated by the author.See below
+This version  carries modifications to make vapor v2.0 compliant
+![Gscan results](v1.6.png)
 This version carries modifications as stated in [Migrating to Ghost 1.0.0](https://themes.ghost.org/docs/migrate-to-ghost-1-0-0) and passes GScans rules.
 ![GScan results](gscan.png).
 
