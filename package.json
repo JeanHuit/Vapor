@@ -2,5 +2,6 @@
   "name": "vapor",
   "version": "1.5.0",
   "config": { "posts_per_page": 5},
-  "author":{"email":"seth.lilly@gmail.com"}
+  "author":{"email":"seth.lilly@gmail.com"},
+  "keywords": ["ghost-theme"]
 }
