@@ -243,11 +243,33 @@ h2 {
   text-transform: uppercase;
   font-weight: 300;
 }
-section.post-content .kg-width-wide .kg-width-full img {
+section.post-content img {
   display: block;
   margin: 0 auto;
   max-width: 100%;
 }
+
+
+.kg-width-wide {
+  position: relative;
+  width: 85vw;
+  min-width: 100%;
+  margin: auto calc(50% - 50vw);
+  transform: translateX(calc(50vw - 50%));
+}
+
+.kg-width-full {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+
+
+
 section.preview.archive h2 {
   text-align: left;
 }
